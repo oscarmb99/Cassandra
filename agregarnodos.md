@@ -17,3 +17,5 @@ Otro parámetro a tener en cuenta es **rpc_address**. Es la dirección de escuch
 
 Para que se apliquen los cambios se reincia el servicio. Se puede ver que la unión de los nodos se ha realizado correctamente con el comando **nodetool status**. Ahí aparecerán los
 nodos que se hayan agregado. Cuando se creen o actualicen datos en la BD se podrán ver en todos los nodos.
+
+[ Volver al inicio ](https://github.com/oscarmb99/Cassandra/blob/main/README.md)
