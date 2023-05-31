@@ -19,3 +19,5 @@ Para instalar Cassandra hay que seguir los siguientes pasos:
 - Instalar Cassandra.
 
 `apt install cassandra`
+
+[ Volver al inicio ](https://github.com/oscarmb99/Cassandra/blob/main/README.md)
