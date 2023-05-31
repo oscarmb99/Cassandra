@@ -8,6 +8,4 @@ Lo primero es cambiar el nombre del clúster, que habrá que poner el mismo en c
 
 Una vez hecho eso se reinicia el servicio.
 
-El primer parámetro que voy a mencionar el **seeds**. Este parámetro indica la lista de hosts para que puedan encontrarse entre si y aprender la topología del anillo:
-
-[Ejemplo](https://github.com/oscarmb99/Cassandra/blob/main/imagenes/seeds.PNG)
+El primer parámetro que voy a mencionar el **seeds**. Este parámetro indica la lista de hosts para que puedan encontrarse entre si y aprender la topología del anillo: [Ejemplo](https://github.com/oscarmb99/Cassandra/blob/main/imagenes/seeds.PNG)
