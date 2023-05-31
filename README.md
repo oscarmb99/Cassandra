@@ -1,11 +1,11 @@
 # Cassandra
 
 ## Índice
-1. [ Introducción ](https://github.com/oscarmb99/Kubernetes-Helm/blob/main/descripcion.md)
-2. [ Instalación Cassandra ](https://github.com/oscarmb99/Kubernetes-Helm/blob/main/instalacion.md)
-3. [ Cómo acceder a Cassandra ](https://github.com/oscarmb99/Kubernetes-Helm/blob/main/repositorios.md)
-4. [ Caso práctico: Instalar wordpress ](https://github.com/oscarmb99/Kubernetes-Helm/blob/main/installwordpress.md)
-5. [ Referencias consultadas ](https://github.com/oscarmb99/Kubernetes-Helm/blob/main/referencias.md)
+1. [ Introducción ](https://github.com/oscarmb99/Cassandra/blob/main/introduccion.md)
+2. [ Instalación Cassandra ](https://github.com/oscarmb99/Cassandra/blob/main/instalacion.md)
+3. [ Cómo acceder a Cassandra ](https://github.com/oscarmb99/Cassandra/blob/main/acceso.md)
+4. [  ](https://github.com/oscarmb99/Cassandra/blob/main/.md)
+5. [  ](https://github.com/oscarmb99/Cassandra/blob/main/.md)
 
 ## Licencia
 - [Licencia](https://github.com/oscarmb99/Kubernetes-Helm/blob/main/imagenes/licencia.png)
