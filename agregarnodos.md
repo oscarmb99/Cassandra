@@ -10,4 +10,4 @@ Una vez hecho eso se reinicia el servicio.
 
 El primer parámetro que voy a mencionar el **seeds**. Este parámetro indica la lista de hosts para que puedan encontrarse entre si y aprender la topología del anillo:
 
-! [ https://github.com/oscarmb99/Cassandra/blob/main/imagenes/seeds.PNG ]
+(https://github.com/oscarmb99/Cassandra/blob/main/imagenes/seeds.PNG)
