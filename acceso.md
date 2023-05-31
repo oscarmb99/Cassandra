@@ -10,3 +10,5 @@ para acceder con usuarios creados y poder realizar acciones.
 Una vez cambiado este parámetro ya se puede entrar con el usuario administrador, que es cassandra.
 
 `cqlsh 192.168.18.300 -u cassandra -p cassandra  `
+
+[ Volver al inicio ](https://github.com/oscarmb99/Cassandra/blob/main/README.md)
