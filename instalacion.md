@@ -9,6 +9,7 @@ Para instalar Cassandra hay que seguir los siguientes pasos:
 - Descargarse la clave pública y agregar los repositorios.
 
 `curl https://downloads.apache.org/cassandra/KEYS | apt-key add - `
+
 `echo "deb https://downloads.apache.org/cassandra/debian 40x main" | tee -a /etc/apt/sources.list.d/cassandra.list  `
 
 - Actualizar los paquetes.
