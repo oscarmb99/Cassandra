@@ -9,3 +9,5 @@ Algunpos comandos importantes para manejar Cassandra son:
 - Iniciar, parar o resetear el servicio de Cassandra:
 
 `systemctl start/stop/restart cassandra`
+
+[ Volver al inicio ](https://github.com/oscarmb99/Cassandra/blob/main/README.md)
