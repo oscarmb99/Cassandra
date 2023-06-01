@@ -7,3 +7,7 @@ Lo primero para poder empezar a trabajar con Cassandra es crear el espacio de tr
 El parámetro **class** indica el método de replicación que se va a usar. En este caso he usado **NetworkTopologyStrategy** que indica que los elementos que se creen en este keyspace estarán replicados en cada nodo. El parámetro **replication_factor** indica que solo hay una copia de cada fila en cada nodo.
 
 Para trabajar en el keyspace creado se usa el comando **use "nombre keyspace";** .
+
+Se pueden visualizar los los keyspaces que hay en la base de datos con el conmando:
+
+`select * from system_schema.keyspaces;`
