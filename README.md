@@ -9,4 +9,4 @@
 6. [ Creación de la base de datos ](https://github.com/oscarmb99/Cassandra/blob/main/creacionbd.md)
 
 ##
-- [Licencia](https://github.com/oscarmb99/Kubernetes-Helm/blob/main/imagenes/licencia.png)
+- [Licencia](https://github.com/oscarmb99/Cassandra/blob/main/imagenes/licencia.png)
