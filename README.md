@@ -8,5 +8,5 @@
 5. [ Cómo agregar nodos a Cassandra ](https://github.com/oscarmb99/Cassandra/blob/main/agregarnodos.md)
 6. [ Creación de la base de datos ](https://github.com/oscarmb99/Cassandra/blob/main/creacionbd.md)
 
-## Licencia
+##
 - [Licencia](https://github.com/oscarmb99/Kubernetes-Helm/blob/main/imagenes/licencia.png)
