@@ -12,10 +12,10 @@ Se pueden visualizar los los keyspaces que hay en la base de datos con el conman
 
 `select * from system_schema.keyspaces;`
 
-Para crear una tabla se usa el siguiente comando **CREATE TABLE "nombre tabla":**.
+Para crear una tabla se usa el siguiente comando: [**CREATE TABLE**](https://github.com/oscarmb99/Cassandra/blob/main/imagenes/creaciontabla.PNG)
 
-Para insertar datos se usa el comando **INSERT INTO "nombre tabla";**.
+Para insertar datos se usa el comando: [**INSERT INTO "nombre tabla"**](https://github.com/oscarmb99/Cassandra/blob/main/imagenes/insercion.PNG)
 
-Para ver las tablas que hay creadas se usa el comando **SELECT * FROM system_schema.colums;**.
+Para ver las tablas que hay creadas se usa el comando [**SELECT * FROM system_schema.colums;**](https://github.com/oscarmb99/Cassandra/blob/main/imagenes/tablas.PNG)
 
 [ Volver al inicio ](https://github.com/oscarmb99/Cassandra/blob/main/README.md)
