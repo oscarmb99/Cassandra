@@ -1,6 +1,6 @@
 # ¿Cómo acceder a Cassandra?
 
-Para poder acceder a Cassandra desde el terminal se usa el comando **cqlsh**. Este comando permite acceder pero no crear elementos ni acceder con usuarios creados.
+Para poder acceder a Cassandra desde el terminal se usa el comando **cqlsh**. Este comando permite entrar pero no crear elementos ni iniciar sesión con usuarios creados si es la primera vez que se quiere acceder.
 
 Para acceder, en el fichero de configuración hay que cambiar el parámetro **authenticator** que por defecto estará en **AllowAllAuthenticator**. Se cambia a **PasswordAuthenticator**
 para acceder con usuarios creados y poder realizar acciones. Una vez cambiado este parámetro ya se puede entrar con el usuario administrador, que es cassandra.
