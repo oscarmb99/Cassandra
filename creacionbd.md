@@ -16,6 +16,8 @@ Para crear una tabla se usa el siguiente comando: [**CREATE TABLE**](https://git
 
 Para insertar datos se usa el comando: [**INSERT INTO "nombre tabla"**](https://github.com/oscarmb99/Cassandra/blob/main/imagenes/insercion.PNG)
 
-Para ver las tablas que hay creadas se usa el comando [**SELECT * FROM system_schema.colums;**](https://github.com/oscarmb99/Cassandra/blob/main/imagenes/tablas.PNG)
+Para ver las tablas que hay creadas se usa el comando: [**SELECT * FROM system_schema.colums;**](https://github.com/oscarmb99/Cassandra/blob/main/imagenes/tablas.PNG)
+
+Para borrar una tabla se usa el siguiente comando: [**DROP TABLE**](https://github.com/oscarmb99/Cassandra/blob/main/imagenes/borrartabla.PNG)
 
 [ Volver al inicio ](https://github.com/oscarmb99/Cassandra/blob/main/README.md)
