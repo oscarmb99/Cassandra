@@ -12,12 +12,14 @@ Se pueden visualizar los los keyspaces que hay en la base de datos con el conman
 
 `select * from system_schema.keyspaces;`
 
-Para crear una tabla se usa el siguiente comando: [**CREATE TABLE**](https://github.com/oscarmb99/Cassandra/blob/main/imagenes/creaciontabla.PNG)
+Algunos comandos importantes para usar en la BD:
 
-Para insertar datos se usa el comando: [**INSERT INTO "nombre tabla"**](https://github.com/oscarmb99/Cassandra/blob/main/imagenes/insercion.PNG)
+- Para crear una tabla se usa el siguiente comando: [**CREATE TABLE**](https://github.com/oscarmb99/Cassandra/blob/main/imagenes/creaciontabla.PNG)
 
-Para ver las tablas que hay creadas se usa el comando: [**SELECT * FROM system_schema.colums;**](https://github.com/oscarmb99/Cassandra/blob/main/imagenes/tablas.PNG)
+- Para insertar datos se usa el comando: [**INSERT INTO "nombre tabla"**](https://github.com/oscarmb99/Cassandra/blob/main/imagenes/insercion.PNG)
 
-Para borrar una tabla se usa el siguiente comando: [**DROP TABLE**](https://github.com/oscarmb99/Cassandra/blob/main/imagenes/borrartabla.PNG)
+- Para ver las tablas que hay creadas se usa el comando: [**SELECT * FROM system_schema.colums;**](https://github.com/oscarmb99/Cassandra/blob/main/imagenes/tablas.PNG)
+
+- Para borrar una tabla se usa el siguiente comando: [**DROP TABLE**](https://github.com/oscarmb99/Cassandra/blob/main/imagenes/borrartabla.PNG)
 
 [ Volver al inicio ](https://github.com/oscarmb99/Cassandra/blob/main/README.md)
