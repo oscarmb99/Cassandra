@@ -12,6 +12,6 @@ Se pueden visualizar los los keyspaces que hay en la base de datos con el conman
 
 `select * from system_schema.keyspaces;`
 
-Para crear una tabla se usa el siguiente comando: [Ejemplo](https://github.com/oscarmb99/Cassandra/blob/main/imagenes/createtable.PNG)
+Para crear una tabla se usa el siguiente comando **CREATE TABLE**
 
 [ Volver al inicio ](https://github.com/oscarmb99/Cassandra/blob/main/README.md)
